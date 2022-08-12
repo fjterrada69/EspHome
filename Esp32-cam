@@ -1,7 +1,7 @@
 substitutions:
   device_name: esp32_telefonillo
   friendly_name: esp32_telefonillo_camara_00_00_00_entradita
-  comment: " Un ESP32-CAM con camara y pulsador para el telefonillo de la puerta principal de la casa de Arcos"
+  comment: " Un ESP32-CAM con camara y pulsador para el telefonillo"
 
 esphome:
   name: ${device_name}
